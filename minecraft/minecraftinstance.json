@@ -56,7 +56,26 @@
   },
   "preferenceShowAddOnInfo": true,
   "installDate": "2018-10-14T04:15:15.969992Z",
-  "installedAddons": [],
+  "installedAddons": [
+    {
+      "addonID": 238222,
+      "gameInstanceID": "08ebf029-2512-46c4-9b22-0ada35307b53",
+      "installedFile": null,
+      "dateInstalled": "2018-10-14T04:27:26.4209162Z",
+      "dateUpdated": "2018-10-14T04:27:26.4288963Z",
+      "dateLastUpdateAttempted": "2018-10-14T04:27:26.4288963Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    }
+  ],
   "isMigrated": false,
   "preferenceUploadProfile": false
 }
